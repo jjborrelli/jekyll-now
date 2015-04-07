@@ -1,7 +1,7 @@
 ---
 layout: page
-title: C.V.
-permalink: /cv/
+title: Curriculum Vitae
+permalink: /vitae/
 ---
 # Jonathan Borrelli  
 
