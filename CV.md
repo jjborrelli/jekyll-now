@@ -25,19 +25,14 @@ Juniata College 2006-2010
 
 ### Book Reviews
 
-**Borrelli, J.J.** 2012. The Theory of Ecology edited by Samuel M. Scheiner and Michael R. Willig. Quarterly Review of Biology 87 (2): 145-146. 
+**Borrelli, J.J.** 2012. The Theory of Ecology edited by Samuel M. Scheiner and Michael R. Willig. Quarterly Review of Biology 87 (2): 145-146. doi: 10.1086/665482
 
-### Reports
+### Reports (peer-reviewed)
 
-**Borrelli, J.J.**, H.R. Akçakaya. 2013. Population and distribution objectives for species at risk: quantifying the incremental increase in species extinction risk due to the loss of connectivity, representivity, and redundancy. 
-
-## Honors and Awards
-2014 Unnamed Award, Stony Brook University   
-2012 Sokal Award, Stony Brook University  
-2009 VonLeibig Summer Research Fellowship
+**Borrelli, J.J.**, H.R. Akçakaya. 2013. Population and distribution objectives for species at risk: quantifying the incremental increase in species extinction risk due to the loss of connectivity, representivity, and redundancy. Report for Canadian Environmental Ministry.
 
 ## Presentations
-**Invited Talk**. Quantifying the qualitative: empirical network patterns emerge from differing degrees of stability. 2014. Non-adaptive selection: explaining macroscopic laws in ecology and evolution (workshop), Lausanne, Switzerland. 
+**Invited Talk**. Quantifying the qualitative: empirical network patterns emerge from differing degrees of stability. 2014. Non-adaptive selection: explaining macroscopic laws in ecology and evolution (workshop), Lausanne, Switzerland.[[slides](http://figshare.com/articles/Quantifying_the_qualitative_empirical_network_patterns_emerge_from_differing_degrees_of_stability/1256364)]
 
 **Invited Poster**. Ontogenetic scaling of growth, metabolism and assimilation: testing metabolic scaling theory. 2012. Metabolic Basis of Ecology, Gordon Research Conference. 
 
@@ -47,7 +42,29 @@ Juniata College 2006-2010
 
 **Poster**. Clinging behavior in the freshwater amphipod Gammarus minus. 2009. Liberal Arts Symposium, Juniata College, Huntingdon PA.
 
-## Non-academic work experience
+## Teaching
+### As Instructor
+Statistics and Data Analysis: A Conceptual Approach (Undergraduate-level, 2014) 
 
+### As Teaching Assistant
+Biometry (Graduate-level; 2014)
+Applied Ecology and Conservation Biology (Undergraduate-level; 2012-2015)
+
+## Honors and Awards
+2015 Departmental Excellence in Research Award, Stony Brook University
+2014 Departmental Excellence in Research Award, Stony Brook University    
+2012 Sokal Award, Stony Brook University  
+2009 VonLeibig Summer Research Fellowship
+
+## Professional Memberships
+2015 - Ecological Society of America
+2015 - Canadian Society of Ecology and Evolution
+
+## Extended Academic Visits
+2015 Allesina Lab, University of Chicago (host: Stefano Allesina)
+2014 Centre Interfacultaire Bernoulli, EPFL (host: Roger Arditi)
+2013 Doñana Biological Station, CSIC (host: Jordi Bascompte) 
+
+## Relevant Non-academic work experience
 **2011-2013**  
 *Consultant*, Applied Biomathematics
