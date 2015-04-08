@@ -17,7 +17,7 @@ community configurations that are more stable will persist longer than those tha
 strong food web patterns, short food chains and motifs, I have shown that the features of the
 community that are most common are also the most stable. Using the random matrix approach
 pioneered by Stefano Allesina, I showed that not only are short chains stable, but model webs
-with shorter average chains are also more likely to be stable, all else being equal ([Borrelli and Ginzburg 2014]()http://www.sciencedirect.com/science/article/pii/S2352249614000056).
+with shorter average chains are also more likely to be stable, all else being equal ([Borrelli and Ginzburg 2014](http://www.sciencedirect.com/science/article/pii/S2352249614000056)).
 Tritrophic chains, apparent competition, and direct competition are all well studied community
 configurations, possibly because they are more likely to be stable configurations leading them to
 be frequently present in food webs ([Borrelli 2015](http://onlinelibrary.wiley.com/doi/10.1111/oik.02176/abstract)). These results show a strong signature of
