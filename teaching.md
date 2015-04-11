@@ -3,8 +3,7 @@ layout: page
 title: Teaching    
 permalink: /teaching/  
 ---
-
-# Courses 
+ 
 
 ## Applied Population and Conservation Biology
 An undergraduate level course with the goal of teaching students how population dynamic models can help us make conservation decisions. 
