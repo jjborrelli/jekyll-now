@@ -44,26 +44,26 @@ Juniata College 2006-2010
 
 ## Teaching
 ### As Instructor
-Statistics and Data Analysis: A Conceptual Approach (Undergraduate-level, 2014) 
+Statistics and Data Analysis: A Conceptual Approach (Undergraduate-level, 2014)   
 
 ### As Teaching Assistant
-Biometry (Graduate-level; 2014)
-Applied Ecology and Conservation Biology (Undergraduate-level; 2012-2015)
+Biometry (Graduate-level; 2014)  
+Applied Ecology and Conservation Biology (Undergraduate-level; 2012-2015)  
 
 ## Honors and Awards
-2015 Departmental Excellence in Research Award, Stony Brook University
+2015 Departmental Excellence in Research Award, Stony Brook University  
 2014 Departmental Excellence in Research Award, Stony Brook University    
 2012 Sokal Award, Stony Brook University  
-2009 VonLeibig Summer Research Fellowship
+2009 VonLeibig Summer Research Fellowship  
 
 ## Professional Memberships
-2015 - Ecological Society of America
-2015 - Canadian Society of Ecology and Evolution
+2015 - Ecological Society of America  
+2015 - Canadian Society of Ecology and Evolution  
 
 ## Extended Academic Visits
-2015 Allesina Lab, University of Chicago (host: Stefano Allesina)
-2014 Centre Interfacultaire Bernoulli, EPFL (host: Roger Arditi)
-2013 Doñana Biological Station, CSIC (host: Jordi Bascompte) 
+2015 Allesina Lab, University of Chicago (host: Stefano Allesina)  
+2014 Centre Interfacultaire Bernoulli, EPFL (host: Roger Arditi)  
+2013 Doñana Biological Station, CSIC (host: Jordi Bascompte)   
 
 ## Relevant Non-academic work experience
 **2011-2013**  
