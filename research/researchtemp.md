@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: ResearchTemp  
-permalink: /researchtemp/  
+permalink: /research/researchtemp/  
 ---
 
 # Completed Projects
