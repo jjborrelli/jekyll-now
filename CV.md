@@ -17,9 +17,9 @@ Juniata College 2006-2010
 
 ## Publications 
 ### Research Articles
-**Borrelli, J.J.**, Allesina, S., Arditi, R., Chase, I., Damuth, J., Ginzburg, L.R., Holt, R., Logofet, D., Rohr, R., Rossberg, A., Spencer, M., Tran, K. *in press*. Stability selection in ecological models. *Trends in Ecology and Evolution*. [doi:10.1016/j.tree.2015.05.001](http://www.sciencedirect.com/science/article/pii/S0169534715001238) 
+**Borrelli, J.J.**, Allesina, S., Arditi, R., Chase, I., Damuth, J., Ginzburg, L.R., Holt, R., Logofet, D., Rohr, R., Rossberg, A., Spencer, M., Tran, K. 2015. Stability selection in ecological models. *Trends in Ecology and Evolution* 30 (7): 417-425. [doi:10.1016/j.tree.2015.05.001](http://www.sciencedirect.com/science/article/pii/S0169534715001238) 
 
-**Borrelli, J.J.** *in press*. Selection against instability: stable subgraphs are most frequent in empirical food webs. *Oikos*. [doi: 10.1111/oik.02176](http://www.oikosjournal.org/accepted-article/selection-against-instability-stable-subgraphs-are-most-frequent-empirical-food)
+**Borrelli, J.J.** 2015. Selection against instability: stable subgraphs are most frequent in empirical food webs. *Oikos*. [doi: 10.1111/oik.02176](http://www.oikosjournal.org/accepted-article/selection-against-instability-stable-subgraphs-are-most-frequent-empirical-food)
 
 **Borrelli, J.J.**, and L.R. Ginzburg. 2014. Why are food chains so short: selection against instability explains the pattern. *Food Webs* 1: 10-17. [doi:10.1016/j.fooweb.2014.11.002](http://www.sciencedirect.com/science/article/pii/S2352249614000056)
 
