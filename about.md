@@ -36,8 +36,7 @@ teach myself with the igraph package. Now, I write a blog (mostly on Wordpress, 
 commentary on papers) and my most popular post is a tutorial that I wrote to introduce people to
 network analysis with igraph ([part 1](https://assemblingnetwork.wordpress.com/2013/05/29/network-basics-with-r-and-igraph-part-i-of-iii/), [part 2](https://assemblingnetwork.wordpress.com/2013/06/10/network-basics-with-r-and-igraph-part-ii-of-iii/), [part 3](https://assemblingnetwork.wordpress.com/2013/07/01/network-basics-with-r-and-igraph-part-iii-of-iii/)). I have demonstrated my ability to use R for numerical
 simulations and statistical analysis ([you can view my work on GitHub here](https://github.com/jjborrelli)). Beyond just using R
-for my work I helped with a Software Carpentry workshop at New York University and I am
-completing training to become an instructor for the organization. Not only do I seek to push the
+for my work I helped with a Software Carpentry workshop at New York University and following this experience I completed training to become an instructor for the organization. Not only do I seek to push the
 limits of what I can do in R, but I am looking for other opportunities such as learning to utilize
 the many Python toolkits for research (e.g., NumPy, SciPy, etc.) by taking a course on Python.
 
