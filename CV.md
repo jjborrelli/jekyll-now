@@ -32,7 +32,7 @@ Juniata College 2006-2010
 **Borrelli, J.J.** 2012. The Theory of Ecology edited by Samuel M. Scheiner and Michael R. Willig. Quarterly Review of Biology 87 (2): 145-146. doi: 10.1086/665482
 
 ## Presentations
-**2015**. What makes a motif? The signature of stability selection in empirical network patterns. Talk. Ecological Society of America meeting, Baltimore, USA. 
+**2015**. What makes a motif? The signature of stability selection in empirical network patterns. Talk. Ecological Society of America meeting, Baltimore, USA.[[slides]](http://figshare.com/articles/What_makes_a_motif_the_signature_of_selection_on_stability_in_empirical_network_patterns/1508612)
 
 **2015**. The signature of stability selection in empirical food webs. Invited Talk. Symposium: Using species interactions to predict and manage novel ecosystems. Canadian Society of Ecology and Evolution meeting, Saskatoon, Canada.  
 
@@ -47,12 +47,14 @@ Juniata College 2006-2010
 **2009**. Clinging behavior in the freshwater amphipod Gammarus minus. Poster. Liberal Arts Symposium, Juniata College, Huntingdon PA.
 
 ## Teaching
-### As Instructor
-Statistics and Data Analysis: A Conceptual Approach (Undergraduate-level, 2014)   
-
-### As Teaching Assistant
-Biometry (Graduate-level; 2014)  
-Applied Ecology and Conservation Biology (Undergraduate-level; 2012-2015)  
+Statistics and Data Analysis: A Conceptual Approach (Undergraduate-level) 
+  2015: Teaching Assistant
+  2014: Co-Instructor
+Biometry (Graduate-level)
+  2014: Teaching Assistant
+Applied Ecology and Conservation Biology (Undergraduate-level)  
+  2015: Instructor
+  2012 - 2015: Teaching Assistant 
 
 ## Honors and Awards
 2015 Departmental Excellence in Research Award, Stony Brook University  
