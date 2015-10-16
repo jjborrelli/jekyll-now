@@ -67,10 +67,10 @@ Applied Ecology and Conservation Biology (Undergraduate-level)
 2015 - Canadian Society of Ecology and Evolution  
 
 ## Professional Service
-**2015** Reviewer for:  
-  Oikos  
-  Nature Communications  
-  Ecology Letters  
+Reviewer for:  
+  > Oikos  
+  > Nature Communications  
+  > Ecology Letters  
  
 ## Extended Academic Visits
 2015 Allesina Lab, University of Chicago (host: Stefano Allesina)  
